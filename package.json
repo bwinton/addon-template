@@ -5,12 +5,13 @@
   "author": "",
   "license": "MPL 2.0",
   "version": "0.1",
-  "contributors" : [
-  ],
-  "repository": {
-  },
- "bugs": {
-  },
-  "preferences": [
-  ]
+  "contributors": [],
+  "repository": {},
+  "bugs": {},
+  "preferences": [],
+  "amd": {},
+  "volo": {
+    "baseUrl": "data/js/lib",
+    "dependencies": {}
+  }
 }
